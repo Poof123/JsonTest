@@ -1,4 +1,4 @@
-[
+{"form":[
             {"key": "pob", "lable":"Place of birth", "props":{"required":true}, "kvalue":""},
             {"key": "atod", "lable":"Type of deployment", "kvalue":""},
             {"key": "soe", "lable":"Start of Engagement", "type": "date", "kvalue":""},
@@ -6,3 +6,4 @@
             {"key": "jobtit", "lable":"Job title", "kvalue":"" },
             {"key": "nos", "lable":"Nature of the service", "kvalue":"", "dropdown":["Architectural services","Blind/shutter installation and repairs","Building installations (electrical, sanitary, gas, water, heating, ventilation, air-conditioning installations)","Consultation (business, tax, legal advice)","Demolition","Development of real estate property","Education","Engineering services","Erotic services","facility management services, cleaning activities","Floor and wall covering","Interior and spatial design","IT services","Joinery installation","Kitchen manufacturing","Landscaping/other gardening services","Mobile catering services","Passenger transport services","Personal care services (e.g. hairdressing)","Photography","Plastering and painting","Postal and courier services","Rentals (e.g. leasing of machinery and equipment)","Roofing, carpentry and plumbing","Surveillance services (e.g. buildings, construction sites)","Window installation and repairs","Other"]}
           ]
+}
