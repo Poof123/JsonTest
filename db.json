@@ -1,5 +1,5 @@
 {"form":[
-            {"key": "pob", "lable":"Place of birth", "props":{"required":true}, "value":"Mega Corp"},
+            {"key": "pob", "lable":"Place of birth", "props":{"required":true}, "value":"Krakow"},
             {"key": "atod", "lable":"Type of deployment", "value":""},
             {"key": "soe", "lable":"Start of Engagement", "type": "date", "value":""},
             {"key": "pn", "lable":"Pasport Number", "value":""},
